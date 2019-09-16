@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceApplication</string>
+    <string name="d20_dice">D20 dice</string>
+    <string name="critical_hit">Critical Hit!</string>
+</resources>
